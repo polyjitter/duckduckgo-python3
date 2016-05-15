@@ -6,7 +6,6 @@
 # See LICENSE for terms of usage, modification and redistribution.
 
 import urllib.request, urllib.parse, urllib.error
-import urllib.request, urllib.error, urllib.parse
 import requests
 import json as j
 import sys
