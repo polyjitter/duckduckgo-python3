@@ -9,11 +9,12 @@ Copyright (c) 2012-2013 Michael Smith <crazedpsyc@gshellz.org>
 
 Released under a 3-clause BSD license, see LICENSE for details.
 
-Latest Source: http://github.com/crazedpsyc/python-duckduckgo
+Latest Source: http://github.com/eye-sigil/python-duckduckgo3
+
 Original source: http://github.com/mikejs/python-duckduckgo (outdated)
 
 This version has been forked from the original to handle some new features of
-the API, and switch from XML to JSON.
+the API, switch from XML to JSON, and update for python3 materials.
 
 Installation
 ============
